@@ -1,0 +1,78 @@
+# Copyright (C) 2015 Kelly Dwan & Mel Choyce
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Zamen 1.1.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/adirondack\n"
+"POT-Creation-Date: 2016-04-05 11:30+0200\n"
+"PO-Revision-Date: 2016-04-05 11:30+0200\n"
+"Last-Translator: \n"
+"Language-Team: Zamen Team <info@zamenapp.com>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/about.page.php:7
+msgid ""
+"Zamen is a mobile application that combines the best websites that feature "
+"the quality of the content. Zamen brings new audiences to your website who "
+"follows you passionately and love to read all the new content you offer. The "
+"existence of your content in Zamen will increase your followers on smart "
+"devices, so you combine your current visitors with new ones comes from "
+"Zamen, and sure this will enrich the Arabic content on smart devices and "
+"increases the interest in your website. Zamen plugin synchronize your blog "
+"and comments with Zamen mobile application, also provides you with "
+"statistics to know how your followers respond to your content."
+msgstr ""
+"زامن هو تطبيق يجمع أفضل المواقع التي تتميز بجودة المحتوى. موقعك في زامن يصل "
+"بك الى جمهور جديد يتابعك بشغف وحب ليعرف كل جديد عنك، وجود موقعك في زامن سوف "
+"يزيد من انتشاره وشهرته على الأجهزة الذكية، لتجمع بين زوارك المعتادين لك "
+"ومتابعين جدد، وبذلك نثري المحتوى العربي ويزيد الاهتمام بموقعك. إضافة زامن "
+"تعمل على تزامن موقعك والتعليقات مع تطبيق زامن وايضاً تقدم لك احصاءات عن عدد "
+"متابعينك لتعرف مدى استجابة المتابعين لمحتواك."
+
+#: includes/about.page.php:11
+msgid "Show statistics"
+msgstr "أظهر الإحصائيات"
+
+#: includes/about.page.php:18
+msgid "Namespace"
+msgstr "رمز الموقع"
+
+#: includes/about.page.php:23
+msgid "Access key"
+msgstr "مفتاح الوصول"
+
+#: includes/about.page.php:29
+msgid "Save changes"
+msgstr "حفظ التغييرات"
+
+#: includes/about.page.php:32
+msgid ""
+"Please contact us at info@zamenapp.com to get your namespace and access "
+"token!"
+msgstr ""
+"يرجى التواصل معنا عبر البريد الإلكتروني info@zamenapp.com للحصول على رمز "
+"الموقع ومفتاح الوصول الخاصة بك"
+
+#: includes/zamen-class.php:100
+msgid "Please save namespace and access key first"
+msgstr "الرجاء حفظ رمز الموقع ومفتاح الوصول"
+
+#: includes/zamen-class.php:113
+msgid "Zamen app notification text"
+msgstr "نص التنبيه لبرنامج زامن"
+
+#~ msgid "Statistics"
+#~ msgstr "الإحصائيات"
